@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  item_id: 
+  user_id: 1
+  bid_price: 9.99
+
+two:
+  item_id: 
+  user_id: 1
+  bid_price: 9.99

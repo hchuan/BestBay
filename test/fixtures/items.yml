@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Title: MyString
+  Description: MyString
+  Start_Price: 9.99
+  Bid_End_Date: 2011-09-19 18:00:21
+  Picture: MyString
+  category_id: 1
+
+two:
+  Title: MyString
+  Description: MyString
+  Start_Price: 9.99
+  Bid_End_Date: 2011-09-19 18:00:21
+  Picture: MyString
+  category_id: 1
